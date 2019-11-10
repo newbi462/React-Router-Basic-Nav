@@ -1,5 +1,8 @@
 import React from 'react';
 
+// Inside of Navigation.js import { Link } from 'react-router-dom'.
+import { Link } from 'react-router-dom';
+
 const Navigation = () => {
   return (
     <div>
